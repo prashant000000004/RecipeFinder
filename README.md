@@ -94,7 +94,7 @@ RecipeFinder is a straightforward Android application designed to make recipe di
 <p align="center">
   <strong>Recipe Details</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Ingredients List</strong>
+  <strong>Similar Recipes</strong>
 </p>
 
 
